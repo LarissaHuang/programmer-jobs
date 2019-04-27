@@ -1,0 +1,12 @@
+
+# Dependency directories
+node_modules/
+
+# Distribution directories
+dist/
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
